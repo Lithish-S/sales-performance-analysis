@@ -1,0 +1,11 @@
+Test Case 1:
+Verify total sales calculation.
+Expected Result: Sum of all sales values.
+
+Test Case 2:
+Verify average sales calculation.
+Expected Result: Total sales divided by number of months.
+
+Test Case 3:
+Verify forecast calculation.
+Expected Result: Average sales + 5% growth.
